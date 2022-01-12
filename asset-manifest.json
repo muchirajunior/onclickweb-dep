@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a36f2c75.css",
+    "main.js": "/static/js/main.df6cc846.js",
+    "static/media/milkspash.jpg": "/static/media/milkspash.deec7b2cf23d2436a79b.jpg",
+    "static/media/loading.gif": "/static/media/loading.13988bd8d707f7cdf7e0.gif",
+    "static/media/milksplash.png": "/static/media/milksplash.31910a706838f3782e44.png",
+    "static/media/milk.jpg": "/static/media/milk.64580e2d5c2aa5238164.jpg",
+    "static/media/onclick.png": "/static/media/onclick.5aaad2dd826882286486.png",
+    "index.html": "/index.html",
+    "main.a36f2c75.css.map": "/static/css/main.a36f2c75.css.map",
+    "main.df6cc846.js.map": "/static/js/main.df6cc846.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a36f2c75.css",
+    "static/js/main.df6cc846.js"
+  ]
+}
